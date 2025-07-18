@@ -1,0 +1,12 @@
+Experience,Age,Education,Role,Salary
+1,22,Bachelors,Junior Developer,300000
+3,25,Bachelors,Developer,450000
+5,28,Masters,Developer,600000
+7,30,Masters,Senior Developer,900000
+10,35,MBA,Manager,1200000
+12,38,MBA,Manager,1350000
+15,40,PhD,Data Scientist,1600000
+18,45,PhD,Data Scientist,1800000
+20,48,MBA,Manager,2000000
+25,50,Masters,Senior Developer,1500000
+30,55,PhD,Data Scientist,2200000
